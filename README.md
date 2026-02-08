@@ -97,3 +97,4 @@ python python/detectH_multipleperiods.py --config config.yaml
 ## Notes
 - Large raw map images and intermediate artifacts are not included in the repository.
 - Input data is expected at `../sfcmap` and `../DATA` relative to this project folder.
+- OCR can miss some detections when labels are crowded or overlapping. It is conservative (no false positives), but may under-detect.
