@@ -35,6 +35,7 @@ Field notes:
 - `RH_*`: relative humidity
 - `AT_*`: air temperature
 - `BP_*`: pressure
+- The numeric suffix in each field name indicates the measurement height on the tower.
 
 ## Important Data Warning
 Surface weather maps from 2019/01/01 to 2019/10/20 are garbage data: grayscale, blurry, and unusable. Do NOT use them.
