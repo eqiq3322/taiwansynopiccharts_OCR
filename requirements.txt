@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+easyocr
+python-dateutil
+plotly
+requests
+matplotlib
+pillow
+pyyaml
